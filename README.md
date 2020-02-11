@@ -10,10 +10,10 @@ PYUPDI Adaptation for Raspberry PI Zero W
 
 ![](UPDI_SCH.jpg)
 ![](UPDI_Prog.png)
-![](Steps.png)
 
 
-Usage:
+
+#Usage:
 
 0.  Power-up the Raspberry PI Programmer (USB Power connection)
 1.  Programmer provides power to Target board.  
@@ -23,5 +23,5 @@ Usage:
 5.  Red light indicates programming failed.
 
 
-
+![](Steps.png)
 
