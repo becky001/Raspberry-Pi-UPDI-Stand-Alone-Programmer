@@ -9,8 +9,8 @@ Changes were made to the hardware interface as well as the Python code in order 
 PYUPDI Adaptation for Raspberry PI Zero W
 
 ![](UPDI_SCH.jpg)
+![](PCB.png)
 ![](UPDI_Prog.png)
-
 
 
 #Usage:
